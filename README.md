@@ -1,10 +1,10 @@
 # Papers Site Template
 
-**A generalized, open-source research papers website template** for Hanzo AI, Zoo Labs, Zen AI, and Lux Network - deployable to GitHub Pages.
+**A generalized, open-source research papers website template** usded by leading AI research labs Hanzo AI, Zoo Labs, Zen LM, and Lux Network - deployable to GitHub Pages.
 
 ## 🌟 Features
 
-- ✨ **Multi-Brand Support**: Configure for Hanzo, Zoo, Zen, or Lux with environment variables
+- ✨ **Multi-Brand Support**: Configure for brand with environment variables
 - 📄 **Beautiful Paper Cards**: Modern, responsive design with gradient accents
 - 🚀 **GitHub Pages Ready**: Automatic deployment with GitHub Actions
 - 🎨 **Tailwind CSS**: Fully customizable styling with dark mode support
@@ -14,10 +14,10 @@
 
 ## 🎯 Live Examples
 
-- **Hanzo AI**: [papers.hanzo.ai](https://hanzoai.github.io/papers/)
-- **Zoo Labs**: [papers.zoo.ngo](https://zooai.github.io/papers/)
-- **Zen AI**: [papers.zenlm.ai](https://zenlm.github.io/papers/)
-- **Lux Network**: [papers.lux.network](https://luxfi.github.io/papers/)
+- **Hanzo AI**: [papers.hanzo.ai](https://papers.hanzo.ai/)
+- **Zoo Labs**: [papers.zoo.ngo](https://papers.zoo.ngo/)
+- **Zen AI**: [papers.zenlm.ai](https://papers.zenlm.org/)
+- **Lux Network**: [papers.lux.network](https://papers.lux.network/)
 
 ## 🚀 Quick Start
 
