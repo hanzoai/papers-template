@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="papers-template" width="880"></p>
+
 # Papers Site Template
 
 **A generalized, open-source research papers website template** usded by leading AI research labs Hanzo AI, Zoo Labs, Zen LM, and Lux Network - deployable to GitHub Pages.
