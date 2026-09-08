@@ -140,7 +140,7 @@ export const brandConfigs: Record<Brand, BrandConfig> = {
   zen: {
     name: 'Zen AI',
     fullName: 'Zen AI Model Family',
-    description: 'Ultra-efficient frontier language models (600M-480B parameters) co-developed by Hanzo AI and Zoo Labs',
+    description: 'Ultra-efficient frontier language models (600M-480B parameters) from Zoo Labs Foundation',
     website: 'https://zenlm.ai',
     github: 'https://github.com/zenlm',
     primaryColor: '#9B59B6',
@@ -156,11 +156,12 @@ export const brandConfigs: Record<Brand, BrandConfig> = {
         pdfUrl: 'https://github.com/zenlm/papers/raw/main/ZEN_WHITEPAPER_2025.md',
         githubUrl: 'https://github.com/zenlm/papers',
         date: '2025-01-15',
-        authors: ['Hanzo AI Inc', 'Zoo Labs Foundation'],
+        authors: ['Zoo Labs Foundation'],
         tags: ['LLMs', 'Efficiency', 'Edge Computing', 'Model Architecture'],
         relatedLinks: [
           { label: 'Model Hub', url: 'https://huggingface.co/zenlm' },
           { label: 'Documentation', url: 'https://zenlm.ai' },
+          { label: 'Zoo Labs Foundation', url: 'https://zoo.industries' },
         ],
       },
     ],
