@@ -2,6 +2,8 @@
 
 # Papers Site Template
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/papers-template&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/papers-template&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/papers-template&ref=main&action=deploy)
+
 [![Deploy on Hanzo](https://hanzo.app/deploy-badge.svg)](https://hanzo.app/new?template=https://github.com/hanzoai/papers-template)
 
 **A generalized, open-source research papers website template** usded by leading AI research labs Hanzo AI, Zoo Labs, Zen LM, and Lux Network - deployable to GitHub Pages.
